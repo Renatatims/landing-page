@@ -1,0 +1,18 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+body {
+    background-color:#8dafee;
+}
+
+#navigation {
+    position: relative;
+    text-align: right;
+    border: 6px solid grey;
+    background-color: #3864b6;
+    color:azure;
+
+}
