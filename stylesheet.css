@@ -1,18 +1,37 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    
+        
 }
 
 body {
+    position: relative;
     background-color:#8dafee;
 }
 
+header {
+    position: fixed;
+    width: 98%;
+    background-color: #3030b1;
+}
+
 #navigation {
-    position: relative;
     text-align: right;
     border: 6px solid grey;
-    background-color: #3864b6;
+    background-color: #7391c9;
     color:azure;
 
 }
+
+main {
+    background-color:#8dafee;
+    padding:100px;
+    
+       
+}
+
+img {
+   border: 8px solid grey
+}
+
+
